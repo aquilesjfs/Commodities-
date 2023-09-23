@@ -1,4 +1,4 @@
 # Commodities-
-Uma análise de dados feita a partir dos índices de commodities disponibilizados pelo Banco Central do Brasil. Tal análise busca entender melhor cada setor, suas variações e o quão interessantes podem ser para a realização de investimentos. 
+Uma análise de dados feita a partir dos índices de commodities disponibilizados pelo Banco Central do Brasil. Tal análise busca entender melhor cada setor, suas variações e o quão interessantes podem ser para a realização de investimentos. A análise é realizada a partir da importação de bibliotecas importantes, como o Pandas( Para a importação da base de dados) e o Seaborn ( Para a criação de gráficos). Depois de instalar tais bibliotecas, é possível que a coleta de dados das séries temporais do Banco Central sejam recolhidas. A partir de tais dados, a realização de gráficos e de estatística descritiva em cada setor permite que sejam tiradas realizadas análises sobre cada setor.  
 
 https://colab.research.google.com/drive/1Oc-52CgAJbmiHO_j7QJQgfh7D3xuyfpb#scrollTo=PIv977xTBo5d
